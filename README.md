@@ -1,18 +1,18 @@
 
-<h1 align="center">Hi 👋, I'm Yash Jagtap</h1>
+<h1 align="center">Hello 👋, I'm Pranav Wakurde</h1>
 <h3 align="center">
-Machine Learning Engineer | Python Developer | Data Analyst | NLP Enthusiast
+Artificial Intelligence & Machine Learning Engineer | Python Developer | NLP Enthusiast
 </h3>
 
 <p align="center">
-🚀 Turning raw data into meaningful insights
+🚀 Exploring data, uncovering opportunities.
 </p>
 
 <p align="center">
-  <a href="mailto:yashajagtap1@gmail.com">
-    <img src="https://img.shields.io/badge/Email-yashajagtap1@gmail.com-red?style=flat&logo=gmail"/>
+  <a href="mailto:pranavwakurde3@gmail.com">
+    <img src="https://img.shields.io/badge/Email-pranavwakurde3@gmail.com-red?style=flat&logo=gmail"/>
   </a>
-  <a href="https://linkedin.com/in/yash-jagtap-9641ba300">
+  <a href="https://linkedin.com/in/pranav-wakurde-1035a830b">
     <img src="https://img.shields.io/badge/LinkedIn-Yash%20Jagtap-blue?style=flat&logo=linkedin"/>
   </a>
 </p>
