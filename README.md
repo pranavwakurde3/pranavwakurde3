@@ -9,7 +9,7 @@ Artificial Intelligence & Machine Learning Engineer
 
 
 # 💫 About Me:
-👨‍💻 About Me<br>Hi, I'm Pranav Wakurde 👨‍💻<br>AI & ML Engineering student passionate about building intelligent systems and solving real-world problems using data.<br><br>💡 I enjoy transforming raw data into meaningful insights and developing machine learning models that create real impact.<br><br>🔹 Skills: Python, NumPy, Pandas, Matplotlib, SQL, AI Agentic<br>🔹 Exploring: Machine Learning, NLP, Data Analytics<br>🔹 Currently Learning: Advanced ML algorithms & real-world project deployment<br><br>🎯 Goal: To become a highly skilled AI/ML Engineer and contribute to innovative, data-driven solutions.
+👨‍💻 About Me<br>Hi, I'm Pranav Wakurde 👨‍💻<br>AI & ML Engineering student passionate about building intelligent systems and solving real-world problems using data.<br><br>💡 I enjoy transforming raw data into meaningful insights and developing machine learning models that create real impact.<br><br>🔹 Skills: Python, NumPy, Pandas, Matplotlib, SQL, AI Agentic<br>🔹 Exploring: Machine Learning, NLP, Data Analytics, AI Agentic WorkFlow<br>🔹 Currently Learning: Advanced ML algorithms & real-world project deployment<br><br>🎯 Goal: To become a highly skilled AI/ML Engineer and contribute to innovative, data-driven solutions.
 
 
 ## 🌐 Socials:
