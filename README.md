@@ -22,6 +22,15 @@ Artificial Intelligence & Machine Learning Engineer
 ![](https://nirzak-streak-stats.vercel.app/?user=pranavwakurde3&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranavwakurde3&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<!-- ✅ Contribution Graph Added -->
+## 📊 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranavwakurde3&theme=github-dark&hide_border=true"/>
+</p>
+
+---
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pranavwakurde3&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
